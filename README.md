@@ -32,7 +32,6 @@
   - Total Ad Spend
   - Total Clicks
   - Total Impressions
-  - Filtered inconsistent and outlier values
 # Dashboard Features
   * Key KPIs
       - ROI
