@@ -67,8 +67,8 @@
   - Improves targeting strategy based on demographic performance
 
 
-# Dashboard Preview
-  ** Author **
+
+# Author 
 
 -- Samiksha Aher --
 Aspiring Data Analyst | Data Science Enthusiast
