@@ -65,3 +65,14 @@
 # Business Value
   - Helps optimize ad budget allocation
   - Improves targeting strategy based on demographic performance
+
+
+# Dashboard Preview
+  ** Author **
+
+-- Samiksha Aher --
+Aspiring Data Analyst | Data Science Enthusiast
+Power BI | SQL | Python | Data Analytics
+
+** Feel free to connect with me on LinkedIn
+https://www.linkedin.com/in/samiksha-aher-ab3010373
